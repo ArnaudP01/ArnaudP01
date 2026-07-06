@@ -29,8 +29,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnaudP01&show_icons=true&theme=default" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudP01&layout=compact&theme=default" height="160" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnaudP01&show_icons=true&theme=default" height="165" alt="GitHub stats" />
 </p>
 
 ---
