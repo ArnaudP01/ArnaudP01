@@ -2,7 +2,10 @@
 
 **DevOps & Automation Engineer** focused on Python — I build the tools, scripts and pipelines that keep infrastructure reliable and teams fast.
 
-🌍 Open to opportunities **abroad** (relocation-ready) · 📫 arnaudponente27@gmail.com
+🌍 Open to opportunities **abroad** (relocation-ready)
+
+[![Email](https://img.shields.io/badge/Email-arnaudponente27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arnaudponente27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnaud%20Ponente-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-ponente-17868025a/)
 
 ---
 
