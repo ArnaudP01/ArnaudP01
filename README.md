@@ -26,12 +26,6 @@
 | [🫀 **PulseWatch**](https://github.com/ArnaudP01/pulsewatch) | A lightweight, self-hosted service health monitor — HTTP/TCP/system checks, webhook alerting, SQLite history. Shipped with a full **CI/CD pipeline**: Docker image → Trivy scan → published to GHCR on every tag. |
 | [🧰 **devops-toolkit**](https://github.com/ArnaudP01/devops-toolkit) | A toolbox of everyday **DevOps scripts** (bash + Python) organized by use case: observability, security, containers, backups, config, source-control. Tested & CI-checked. |
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnaudP01&show_icons=true&theme=default" height="165" alt="GitHub stats" />
-</p>
-
 ---
 
 💬 Always happy to talk about automation, monitoring, and shipping reliable software.
